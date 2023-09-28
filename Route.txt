@@ -1,0 +1,9 @@
+
+Route details:
+---------------------
+ Id     Route_name
+---------------------
+R001  Kandy->Colombo
+R002  Kandy->Gampha
+uwiH AiGIYH
+R003 Colombo->Kalutara

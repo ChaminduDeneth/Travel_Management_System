@@ -1,0 +1,7 @@
+
+Vehicle details:
+----------------------------------
+ Id     Vehicle_type   Driver_name
+----------------------------------
+V001      Car            Saman
+V002      Van            Kamal

@@ -1,0 +1,7 @@
+
+Driver details:
+------------------------------------------------------------------------
+ Id     Name    Address   Car_type   Vehicle_Id      Mobile     Route_Id
+------------------------------------------------------------------------
+D001   Saman    Gampha      Car        CA001       0771467027     R001
+D002   Kamal    Kandy       Van        VA001       0674225688     R002

@@ -1,0 +1,13 @@
+
+Customer details:
+---------------------------------------------------------------------------
+ Id   Name        Address            Mobile         Email         Reg.Date
+---------------------------------------------------------------------------
+C001 Anjana   Kasbawa,Piliyandala  0763642953 anjana@gmail.com   2022/07/08
+C002 Hansi    Mirigama,Gampaha     0231547684 hansi@gmail.com    2022/07/08
+C003 Kawya    Kiridiwela,Gampaha   0773253826 kawya@gmail.com    2022/07/08
+C004 Chamindu Samagiuyana,Kalutara 0771534903 chamindu@gmail.com 2022/07/08
+C005 Sanduni  Uduwila,Batapola     0711344972 sanduni@gmail.com  2022/07/08
+C006 kAMAL SILVA KELANIYA,DALUGAMA 071 45623542 KAMAL@GMAIL.COM 12/13/2022
+C007 Ravi Dalugama,Kelaniya 0773455345 Ravi@gmail.com 2022/08/09
+C009 kjsxhjxw iowcj i234 31r.com 22784
